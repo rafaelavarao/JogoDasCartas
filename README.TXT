@@ -4,9 +4,9 @@ Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
 ele/ela precisa saber. Os comentários devem incluir, pelo menos:
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO: Trabalho Avaliativo
-OBJETIVO DO PROJETO: 
+TÍTULO DO PROJETO: Primeiro trabalho Avaliativo(faculdade).
+OBJETIVO DO PROJETO: Ser um jogo de cartas.
 VERSÃO ou DATA: 08/09/2021
-COMO INICIAR O PROJETO: 
+COMO INICIAR O PROJETO:
 AUTORES: Rafaela Varão Albuquerque
-INSTRUÇÕES PARA O USUÁRIO:
+INSTRUÇÕES PARA O USUÁRIO: Pode ser aberto no Bluej.
